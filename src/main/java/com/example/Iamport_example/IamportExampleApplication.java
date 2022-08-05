@@ -1,13 +1,13 @@
-package com.example.spring_kginicis_pgtest;
+package com.example.Iamport_example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringKgInicisPGtestApplication {
+public class IamportExampleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringKgInicisPGtestApplication.class, args);
+        SpringApplication.run(IamportExampleApplication.class, args);
     }
 
 }

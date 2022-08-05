@@ -1,0 +1,12 @@
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  thymeleaf:
+    cache: false
+
+iamport:
+  rest:
+    key: "1835441221347325"
+    secret: "ceEHH9Qt4QKYQ2qzCUptFOaSqHfLg60PCOTXkmvMqPAZZjRoID9HwRpE95mV9o8hauCBaXOvzRpQqVR0"
+    # Inject your own key and secret

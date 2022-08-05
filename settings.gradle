@@ -5,4 +5,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'Spring_KGInicis_PGtest'
+rootProject.name = 'Iamport_example'
